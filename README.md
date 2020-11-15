@@ -1,7 +1,11 @@
 # csvDatasetMix
 Mezclador de archivos csv.
 
-Este repositorio contiene tres programas para mezclar archivos csv.
+Este programa en Java ha sido diseñado con el objetivo de generar datasets de prueba para mi proyecto de fin de grado. Parto de unos archivos csv que contienen 
+instancias de una serie de hidrocarburos. Cada csv contiene la información de un único hidrocarburo. Por lo que se ha diseñado este mezclador para generar un nuevo
+archivo csv que contenga información de todos los hidrocarburos. 
+
+Este repositorio contiene tres subprogramas para mezclar archivos csv.
 
 # Mixing
 Es un mezclador básico que tiene como entrada los archivos cuyos nombres le pasemos como argumento.
